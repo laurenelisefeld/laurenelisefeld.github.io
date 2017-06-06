@@ -1,0 +1,21 @@
+# Site settings
+title: There is no place like Code!
+header-img: img/home-bg.png
+email: lauren.feld@aol.com
+copyright_name: laurenelisefeld
+description: > # this means to ignore newlines until "baseurl:"
+  Live. Love. Code.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  laurenelisefeld
+learn_profile: laurenelisefeld
+email_username: lauren.feld@aol.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
