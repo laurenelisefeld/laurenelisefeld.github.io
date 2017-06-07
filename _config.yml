@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: lauren.feld@aol.com
 copyright_name: laurenelisefeld
 description: > # this means to ignore newlines until "baseurl:"
-  Live. Love. Code.
+  A Developers Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  laurenelisefeld
