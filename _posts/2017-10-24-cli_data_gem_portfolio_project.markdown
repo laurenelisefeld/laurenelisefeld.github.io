@@ -9,6 +9,6 @@ Phew! Is it really over? What a journey it has been. While reading through the r
 
 Once that issue was solved I started to see the light at the end of the tunnel. My page became easier to scrape! 
 
-![https://i.pinimg.com/originals/a2/9a/bc/a29abc6432badfba5106344c11c88029.jpg://)]
+![](https://i.pinimg.com/originals/a2/9a/bc/a29abc6432badfba5106344c11c88029.jpg)
 
 
