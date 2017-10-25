@@ -13,7 +13,7 @@ Once that issue was resolved, I started to see the light at the end of the tunne
 
 **MOVING ON!....**... While creating my attributes I had to refer back to the Regex lab and use Rubular to brush up on regular expressions. This was because I needed to use regex a few times since the page wasn't breaking everything down into the desired divs for me to iterate over, so I was iterating over a large block of text inside a "p" selector. As a result, I was having the same issue when trying to pull each restaurant name. To solve this problem, I had to create a separate method just to scrape the name, and it was a bit of a challenge figuring out how I could get that added into my object array of restaurants. I ended up calling it directly from the CLI itself, probably not the most elegant solution, but it was the best solution I found, and it works!
 
-![](httphttps://i.pinimg.com/originals/17/26/5e/17265e343ef9d45141666427cbb085f0.jpg://)
+![](https://i.pinimg.com/originals/17/26/5e/17265e343ef9d45141666427cbb085f0.jpg)
 
 
 
