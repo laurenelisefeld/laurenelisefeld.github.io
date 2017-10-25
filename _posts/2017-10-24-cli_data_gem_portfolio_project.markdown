@@ -11,11 +11,13 @@ Phew! Is it really over? What a journey it has been. While reading through the r
 
 Once that issue was resolved, I started to see the light at the end of the tunnel. My page became easier to scrape! Later down the road, I came across another issue. When It came to finding the right selectors to grab my desired text, I had to change the selector that I was using for the name of the pizza restaurent I was scraping because it was not nested under the same DIV. Took a little bit of time to figure this out, but I perservered! 
 
-**MOVING ON!....**... While creating my attributes I had to refer back to the Regex lab and use Rubular to brush up on regular expressions. This was because I needed to use regex a few times since the page wasn't breaking everything down into the desired divs for me to iterate over, so I was iterating over a large block of text inside a "p" selector. As a result, I was having the same issue when trying to pull each restaurant name. To solve this problem, I had to create a separate method just to scrape the name, and it was a bit of a challenge figuring out how I could get that added into my object array of restaurants. I ended up calling it directly from the CLI itself, probably not the most elegant solution, but it was the best solution I found, and it works!
+**MOVING ON!....**... While creating my attributes I had to refer back to the Regex lab and use www.Rubular.com to brush up on regular expressions. This was because I needed to use regex a few times since the page wasn't breaking everything down into the desired divs for me to iterate over, so I was iterating over a large block of text inside a "p" selector. As a result, I was having the same issue when trying to pull each restaurant name. To solve this problem, I had to create a separate method just to scrape the name, and it was a bit of a challenge figuring out how I could get that added into my object array of restaurants. I ended up calling it directly from the CLI itself, probably not the most elegant solution, but it was the best solution I found, and it works!
 
-**PAUSE FOR LITTLE CELEBRATION!!!!**
+**PAUSE FOR MINI CELEBRATION!!!!**
 
 ![](https://i.pinimg.com/originals/17/26/5e/17265e343ef9d45141666427cbb085f0.jpg)
+
+After overcoming these minor hurdles, the rest of my code came together nicely! :) Having to create and code an entire CLI from beginning to end was challenging, but it was a chanllege that I am glad was thrown at me. I feel more confident in my coding abilities and I am certain that from here on out I will succed and become a more elegant coder. 
 
 
 
