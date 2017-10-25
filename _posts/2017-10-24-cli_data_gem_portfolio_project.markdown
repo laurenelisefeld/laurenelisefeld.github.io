@@ -19,6 +19,7 @@ Once that issue was resolved, I started to see the light at the end of the tunne
 
 After overcoming these minor hurdles, the rest of my code came together nicely! :) Having to create and code an entire CLI from beginning to end was challenging, but it was a chanllege that I am glad was thrown at me. I feel more confident in my coding abilities and I am certain that from here on out I will succed and become a more elegant coder. 
 
+![](https://i.pinimg.com/originals/f0/d0/8a/f0d08ad154881b2b5fbda6db568b8af7.jpg)
 
 
 
