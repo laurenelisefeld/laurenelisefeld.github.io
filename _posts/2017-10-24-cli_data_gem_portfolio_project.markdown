@@ -5,10 +5,15 @@ date:       2017-10-24 11:01:33 -0400
 permalink:  cli_data_gem_portfolio_project
 ---
 
+![](https://i.pinimg.com/originals/a2/9a/bc/a29abc6432badfba5106344c11c88029.jpg)
+
 Phew! Is it really over? What a journey it has been. While reading through the requirements for the project I was a tad concerned that i would not be able to put all the material together and create my own CLI program. After spending a fair amount of time searching for scrapable websites, I finally found one that was able to scrape but I had to make a few minor adjustments. With much reseach, I discovered that I had to add 'amp' to the beginning of the site's url to access the accelerated mobile page version of the website. This was because the page was loading everything except the first item on the line using JQuery, which only allowed my scraper access to the very first selector (and thus restaurant) on the page.
 
-Once that issue was solved I started to see the light at the end of the tunnel. My page became easier to scrape! 
+Once that issue was resolved, I started to see the light at the end of the tunnel. My page became easier to scrape! Later down the road, I came across another issue. When It came to finding the right selectors to grab my desired text, I had to change the selector that I was using for the name of the pizza restaurent I was scraping because it was not nested under the same DIV. Took a little bit of time to figure this out, but I perservered! 
 
-![](https://i.pinimg.com/originals/a2/9a/bc/a29abc6432badfba5106344c11c88029.jpg)
+Moving on... while creating my attributes I had to refer back to the Regex lab and use Rubular to brush up on regular expressions. This was because I needed to use a regex a couple of times since the page didn't break everything down into nice little divs for me to iterate over, and I was iterating over a large block of text inside a "p" selector. 
+
+
+
 
 
