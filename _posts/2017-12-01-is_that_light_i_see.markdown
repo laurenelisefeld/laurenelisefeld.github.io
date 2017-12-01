@@ -9,7 +9,7 @@ Moving into Sinatra with the utmost confidence! So far I am really enjoying what
 ​
 ![](https://i.pinimg.com/originals/ed/af/96/edaf96aac4782648c0fbbfdc22b0b1db.jpg)
 ​
-###### (Current feels!
+###### (Current feels!)
 ​
 ​
 # Thank you Blake Mizerany!
