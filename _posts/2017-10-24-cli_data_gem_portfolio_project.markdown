@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My CLI Data Project Journey"
+title:      " CLI Project Journey"
 date:       2017-10-24 11:01:33 -0400
 permalink:  cli_data_gem_portfolio_project
 ---
